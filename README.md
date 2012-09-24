@@ -1,1 +1,1 @@
-Development on the DNS-O-Matic Client.NET has been discontinued.  All of the functionality and more can now be found in the [Bespoke Dynamic DNS Updater](https://github.com/dmarchelya/BespokeDynamicDnsUpdater).
+Development of the DNS-O-Matic Client.NET has been discontinued.  All of the functionality and more can now be found in the [Bespoke Dynamic DNS Updater](https://github.com/dmarchelya/BespokeDynamicDnsUpdater).
